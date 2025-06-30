@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Alphajax)
 
-![Codewars](https://github.r2v.ch/codewars?user=alphajax_&stroke=%23BB432C)
 
 <!--
 **Alphajax/Alphajax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
